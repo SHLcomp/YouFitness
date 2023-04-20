@@ -65,6 +65,15 @@ html{
     background-color: var(--secondary-bg-color);
     opacity: var(--opacity);
 } */
+
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    gap: 2rem;
+    list-style: none;
+}
 .navbar ul{
     display: flex;
     flex-direction: row;
